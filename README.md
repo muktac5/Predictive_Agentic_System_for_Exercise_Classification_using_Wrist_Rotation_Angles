@@ -1,4 +1,4 @@
-##Predictive Agentic System for Exercise Recognition
+###Predictive Agentic System for Exercise Recognition
 
 This project involves developing a predictive system to classify exercise types based on Euler angles derived from motion data. The system leverages time-series data and machine learning techniques to identify specific exercises and enhance exercise descriptions using domain-specific knowledge.
 
